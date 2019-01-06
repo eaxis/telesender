@@ -1,6 +1,9 @@
 # Telesender
 Telegram mass messaging tool
 
+## This repository is abandoned
+Please use [TeleHorn](github.com/Narrator69/telehorn) instead
+
 ## Syntax of data.json
 
 ```
